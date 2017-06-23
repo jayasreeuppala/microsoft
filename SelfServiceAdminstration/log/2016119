@@ -1,0 +1,79 @@
+11/9/2016 6:03:10 PM ==> Loggedin
+11/9/2016 6:06:48 PM ==> Loggedin
+11/9/2016 6:08:45 PM ==> Loggedin
+11/9/2016 6:10:05 PM ==>  are we hereee???...  
+11/9/2016 6:10:05 PM ==>  oneee loginid???...  ss0087061
+11/9/2016 6:17:40 PM ==> Loggedin
+11/9/2016 6:25:30 PM ==> Loggedin
+11/9/2016 6:25:50 PM ==> Loggedin
+11/9/2016 6:32:46 PM ==> Loggedin
+11/9/2016 6:46:18 PM ==> Loggedin
+11/9/2016 6:46:37 PM ==> Loggedin
+11/9/2016 6:48:10 PM ==> Loggedin
+11/9/2016 6:48:42 PM ==> Loggedin
+11/9/2016 6:48:47 PM ==> Loggedin
+11/9/2016 6:49:34 PM ==> Loggedin
+11/9/2016 7:00:31 PM ==> Loggedin
+11/9/2016 7:00:40 PM ==> Loggedin
+11/9/2016 7:01:16 PM ==> Loggedin
+11/9/2016 7:07:34 PM ==> Loggedin
+11/9/2016 7:07:42 PM ==> locked ?? 2  >> 
+11/9/2016 7:07:42 PM ==> locked ?? 3  >> 
+11/9/2016 7:07:42 PM ==> locked ?? 4  >> 
+11/9/2016 7:07:42 PM ==> locked ?? 5  >> System.DirectoryServices.SearchResult
+11/9/2016 7:07:42 PM ==> locked ?? 6  >> LDAP://CN=Sravan Kumar Sarvadeva Bhatla,OU=Users,OU=UnresolveD,DC=TechMahindra,DC=com
+11/9/2016 7:07:42 PM ==> locked ?? 7  >> Sravan Kumar Sarvadeva Bhatla
+11/9/2016 7:07:58 PM ==> getAccountDetailsuserid 1ss0087061
+11/9/2016 7:07:58 PM ==> IsAuthenticateduserinfoe1
+11/9/2016 7:07:58 PM ==> GetDirectoryObject4   Logon failure: unknown user name or bad password.
+
+11/9/2016 7:07:58 PM ==> IsAuthenticateduserinfoe2 entry 
+11/9/2016 7:07:58 PM ==> IsAuthenticateduserinfo
+11/9/2016 7:07:58 PM ==> IsAuthenticateduserinfo6Object reference not set to an instance of an object.
+11/9/2016 7:07:58 PM ==> getAccountDetailsError authenticating user. Object reference not set to an instance of an object.
+11/9/2016 7:08:39 PM ==> getAccountDetailsuserid 1ss0087061
+11/9/2016 7:09:05 PM ==> IsAuthenticateduserinfoe1
+11/9/2016 7:09:08 PM ==> GetDirectoryObject4   Logon failure: unknown user name or bad password.
+
+11/9/2016 7:09:05 PM ==> IsAuthenticateduserinfoe2 entry 
+11/9/2016 7:09:05 PM ==> IsAuthenticateduserinfo
+11/9/2016 7:09:05 PM ==> IsAuthenticateduserinfo6Object reference not set to an instance of an object.
+11/9/2016 7:08:39 PM ==> getAccountDetailsError authenticating user. Object reference not set to an instance of an object.
+11/9/2016 7:09:48 PM ==> getAccountDetailsuserid 1ss0087061
+11/9/2016 7:09:55 PM ==> IsAuthenticateduserinfoe1
+11/9/2016 7:09:58 PM ==> GetDirectoryObject4   Logon failure: unknown user name or bad password.
+
+11/9/2016 7:10:11 PM ==> GetDirectoryObject4   Logon failure: unknown user name or bad password.
+
+11/9/2016 7:09:55 PM ==> IsAuthenticateduserinfoe2 entry 
+11/9/2016 7:09:55 PM ==> IsAuthenticateduserinfo
+11/9/2016 7:09:55 PM ==> IsAuthenticateduserinfo6Object reference not set to an instance of an object.
+11/9/2016 7:09:48 PM ==> getAccountDetailsError authenticating user. Object reference not set to an instance of an object.
+11/9/2016 7:11:56 PM ==> Loggedin
+11/9/2016 7:11:56 PM ==> locked ?? 2  >> 
+11/9/2016 7:11:56 PM ==> locked ?? 3  >> 
+11/9/2016 7:11:56 PM ==> locked ?? 4  >> 
+11/9/2016 7:11:56 PM ==> locked ?? 5  >> System.DirectoryServices.SearchResult
+11/9/2016 7:11:56 PM ==> locked ?? 6  >> LDAP://CN=Sravan Kumar Sarvadeva Bhatla,OU=Users,OU=UnresolveD,DC=TechMahindra,DC=com
+11/9/2016 7:11:56 PM ==> locked ?? 7  >> Sravan Kumar Sarvadeva Bhatla
+11/9/2016 7:11:57 PM ==> getAccountDetailsuserid 1ss0087061
+11/9/2016 7:11:57 PM ==> IsAuthenticateduserinfoe1
+11/9/2016 7:11:57 PM ==> GetDirectoryObject1   DC=TechMahindra
+11/9/2016 7:11:57 PM ==> GetDirectoryObject2   
+11/9/2016 7:11:57 PM ==> GetDirectoryObject3   2
+11/9/2016 7:11:57 PM ==> IsAuthenticateduserinfoe2 entry System.DirectoryServices.DirectoryEntry
+11/9/2016 7:11:57 PM ==> IsAuthenticateduserinfo
+11/9/2016 7:11:57 PM ==> IsAuthenticateduserinfo2
+11/9/2016 7:11:57 PM ==> IsAuthenticateduserinfo21CN=Sravan Kumar Sarvadeva Bhatla
+11/9/2016 7:11:57 PM ==> IsAuthenticateduserinfo22(objectClass=*)
+11/9/2016 7:11:57 PM ==> IsAuthenticateduserinfoe123  (SAMAccountName=ss0087061)
+11/9/2016 7:11:57 PM ==> IsAuthenticateduserinfoe124  LDAP://techmahindra.com/CN=Sravan Kumar Sarvadeva Bhatla,OU=Users,OU=UnresolveD,DC=TechMahindra,DC=com
+11/9/2016 7:11:57 PM ==> IsAuthenticateduserinfo3
+11/9/2016 7:11:57 PM ==> IsAuthenticateduserinfo4
+11/9/2016 7:11:57 PM ==> get user info 1
+11/9/2016 7:11:57 PM ==> get user info 2Sravan Kumar Sarvadeva Bhatla
+11/9/2016 7:11:57 PM ==> get user info 21
+11/9/2016 7:11:57 PM ==> searching propss...1 
+11/9/2016 7:11:57 PM ==> searching propss...2 
+11/9/2016 7:11:57 PM ==> searching propss...3 mobileno obj System.DirectoryServices.ResultPropertyValueCollection
+11/9/2016 7:11:57 PM ==> IsAuthenticateduserinfo5

@@ -1,0 +1,454 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{19E158FD-0709-4836-90C2-F2163B70D676}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SelfServiceAdminstration</RootNamespace>
+    <AssemblyName>SelfServiceAdminstration</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <UseIISExpress>false</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=16.1.1.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <HintPath>..\packages\AjaxControlToolkit.16.1.1.0\lib\net40\AjaxControlToolkit.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="MySql.Data, Version=6.3.7.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\dlls\MySql.Data.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MySql.Data.Entity, Version=6.3.7.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\dlls\MySql.Data.Entity.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MySql.Web, Version=6.3.7.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\dlls\MySql.Web.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.DirectoryServices.AccountManagement" />
+    <Reference Include="System.DirectoryServices.Protocols" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Helpers, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\AD.System.Web.Helpers.dll.2.0.0\lib\net20\System.Web.Helpers.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="About.aspx" />
+    <Content Include="Account\ChangePassword.aspx" />
+    <Content Include="Account\ChangePasswordSuccess.aspx" />
+    <Content Include="Account\Login.aspx" />
+    <Content Include="Account\Register.aspx" />
+    <Content Include="AuthFailed.aspx" />
+    <Content Include="CImage.aspx" />
+    <Content Include="createCaptcha.aspx" />
+    <Content Include="imagestyles\bluetabs.css" />
+    <Content Include="imagestyles\CaptchaImage.aspx" />
+    <Content Include="imagestyles\cmd_Reset.gif" />
+    <Content Include="imagestyles\cmd_Search.gif" />
+    <Content Include="imagestyles\ddcolortabs.css" />
+    <Content Include="imagestyles\dropdowntabs.js" />
+    <Content Include="imagestyles\glowtabs.css" />
+    <Content Include="imagestyles\group.gif" />
+    <Content Include="imagestyles\halfmoontabs.css" />
+    <Content Include="imagestyles\mahindra-rise.png" />
+    <Content Include="imagestyles\Mahindralogo.png" />
+    <Content Include="imagestyles\mahindrarise-old1.png" />
+    <Content Include="imagestyles\mahindrarise.png" />
+    <Content Include="imagestyles\MahindraSSS - Copy.jpg" />
+    <Content Include="imagestyles\MahindraSSS.jpg" />
+    <Content Include="imagestyles\menu_bg.jpg" />
+    <Content Include="imagestyles\mobilereg.gif" />
+    <Content Include="imagestyles\New.gif" />
+    <Content Include="imagestyles\OTPpass.jpg" />
+    <Content Include="imagestyles\passwdcheck.css" />
+    <Content Include="imagestyles\passwdcheck.js" />
+    <Content Include="imagestyles\PasswordLg.gif" />
+    <Content Include="imagestyles\ProfileLg.gif" />
+    <Content Include="imagestyles\SecurityKey.jpg" />
+    <Content Include="imagestyles\SecurityQn.jpg" />
+    <Content Include="imagestyles\setprofile.gif" />
+    <Content Include="imagestyles\slidingdoors.css" />
+    <Content Include="imagestyles\style.css" />
+    <Content Include="imagestyles\successthumb.png" />
+    <Content Include="imagestyles\techmlogo4-old.png" />
+    <Content Include="imagestyles\techmlogo41-old.png" />
+    <Content Include="imagestyles\techmlogo41.png" />
+    <Content Include="imagestyles\Unused\2.png" />
+    <Content Include="imagestyles\Unused\MahindraSSS-old.jpg" />
+    <Content Include="imagestyles\Unused\ssa_web_logo_2.gif" />
+    <Content Include="imagestyles\Unused\techmlogo4-old.png" />
+    <Content Include="imagestyles\Unused\tim.gif" />
+    <Content Include="imagestyles\Unused\W.png" />
+    <Content Include="imagestyles\Unused\WinLogo.jpg" />
+    <Content Include="imagestyles\Unused\WinLogo1.gif" />
+    <Content Include="imagestyles\Winlogo - Copy.png" />
+    <Content Include="imagestyles\Winlogo.png" />
+    <Content Include="InvalidOTP.aspx" />
+    <Content Include="PasswordAuth.aspx" />
+    <Content Include="ResetSucess.aspx" />
+    <Content Include="RestPasswordQA.aspx" />
+    <Content Include="imagestyles\cmd_cancel.gif" />
+    <Content Include="imagestyles\cmd_save.gif" />
+    <Content Include="imagestyles\ssa_web_logo_2.gif" />
+    <Content Include="imagestyles\techmlogo4.png" />
+    <Content Include="imagestyles\tim.gif" />
+    <Content Include="Scripts\bluetabs.css" />
+    <Content Include="Scripts\glowtabs.css" />
+    <Content Include="Scripts\halfmoontabs.css" />
+    <Content Include="Scripts\passwdcheck.css" />
+    <Content Include="Scripts\slidingdoors.css" />
+    <Content Include="SelfResetPassword.aspx" />
+    <Content Include="SelfServiceLogin.aspx" />
+    <Content Include="SelfServiceLoginPage.aspx" />
+    <Content Include="sendsms.aspx" />
+    <Content Include="SSAErrorPage.aspx" />
+    <Content Include="SSAHome.aspx" />
+    <Content Include="SSARegisterProfile.aspx" />
+    <Content Include="Styles\bluetabs.css" />
+    <Content Include="Styles\ddcolortabs.css" />
+    <Content Include="Styles\glowtabs.css" />
+    <Content Include="Styles\halfmoontabs.css" />
+    <Content Include="Styles\Site.css" />
+    <Content Include="Default.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.4.1.js" />
+    <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="Styles\slidingdoors.css" />
+    <Content Include="Styles\style.css" />
+    <Content Include="testsecurity.aspx" />
+    <Content Include="UsersDisplay.aspx" />
+    <Content Include="ValidateOTP.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="wer.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.aspx.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="About.aspx.designer.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\ChangePassword.aspx.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\ChangePassword.aspx.designer.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\ChangePasswordSuccess.aspx.cs">
+      <DependentUpon>ChangePasswordSuccess.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\ChangePasswordSuccess.aspx.designer.cs">
+      <DependentUpon>ChangePasswordSuccess.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Register.aspx.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\Register.aspx.designer.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ADUserDetails.cs" />
+    <Compile Include="Authentication\ActiveDirAuthentication.cs" />
+    <Compile Include="Authentication\LdapAuthentication.cs" />
+    <Compile Include="Authentication\QASecurity.cs" />
+    <Compile Include="Authentication\SSAEmail.cs" />
+    <Compile Include="AuthFailed.aspx.cs">
+      <DependentUpon>AuthFailed.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AuthFailed.aspx.designer.cs">
+      <DependentUpon>AuthFailed.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CImage.aspx.cs">
+      <DependentUpon>CImage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="createCaptcha.aspx.cs">
+      <DependentUpon>createCaptcha.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="createCaptcha.aspx.designer.cs">
+      <DependentUpon>createCaptcha.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Databasecomp\DatabaseLayer.cs" />
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="InvalidOTP.aspx.cs">
+      <DependentUpon>InvalidOTP.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="InvalidOTP.aspx.designer.cs">
+      <DependentUpon>InvalidOTP.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PasswordAuth.aspx.cs">
+      <DependentUpon>PasswordAuth.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PasswordAuth.aspx.designer.cs">
+      <DependentUpon>PasswordAuth.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RandomImage.cs" />
+    <Compile Include="RandomQs.cs" />
+    <Compile Include="ResetSucess.aspx.cs">
+      <DependentUpon>ResetSucess.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ResetSucess.aspx.designer.cs">
+      <DependentUpon>ResetSucess.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RestPasswordQA.aspx.cs">
+      <DependentUpon>RestPasswordQA.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RestPasswordQA.aspx.designer.cs">
+      <DependentUpon>RestPasswordQA.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SelfResetPassword.aspx.cs">
+      <DependentUpon>SelfResetPassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SelfResetPassword.aspx.designer.cs">
+      <DependentUpon>SelfResetPassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SelfServiceLogin.aspx.cs">
+      <DependentUpon>SelfServiceLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SelfServiceLogin.aspx.designer.cs">
+      <DependentUpon>SelfServiceLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SelfServiceLoginPage.aspx.cs">
+      <DependentUpon>SelfServiceLoginPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SelfServiceLoginPage.aspx.designer.cs">
+      <DependentUpon>SelfServiceLoginPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="sendsms.aspx.cs">
+      <DependentUpon>sendsms.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sendsms.aspx.designer.cs">
+      <DependentUpon>sendsms.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Site1.Master.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site1.Master.designer.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Site2.Master.cs">
+      <DependentUpon>Site2.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site2.Master.designer.cs">
+      <DependentUpon>Site2.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Site3.Master.cs">
+      <DependentUpon>Site3.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site3.Master.designer.cs">
+      <DependentUpon>Site3.Master</DependentUpon>
+    </Compile>
+    <Compile Include="SMSRequest.cs" />
+    <Compile Include="SSA.Master.cs">
+      <DependentUpon>SSA.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SSA.Master.designer.cs">
+      <DependentUpon>SSA.Master</DependentUpon>
+    </Compile>
+    <Compile Include="SSAErrorLog.cs" />
+    <Compile Include="SSAErrorPage.aspx.cs">
+      <DependentUpon>SSAErrorPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SSAErrorPage.aspx.designer.cs">
+      <DependentUpon>SSAErrorPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SSAHome.aspx.cs">
+      <DependentUpon>SSAHome.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SSAHome.aspx.designer.cs">
+      <DependentUpon>SSAHome.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SSARegisterProfile.aspx.cs">
+      <DependentUpon>SSARegisterProfile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SSARegisterProfile.aspx.designer.cs">
+      <DependentUpon>SSARegisterProfile.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="testsecurity.aspx.cs">
+      <DependentUpon>testsecurity.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="testsecurity.aspx.designer.cs">
+      <DependentUpon>testsecurity.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UsersDisplay.aspx.cs">
+      <DependentUpon>UsersDisplay.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UsersDisplay.aspx.designer.cs">
+      <DependentUpon>UsersDisplay.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ValidateOTP.aspx.cs">
+      <DependentUpon>ValidateOTP.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ValidateOTP.aspx.designer.cs">
+      <DependentUpon>ValidateOTP.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="wer.aspx.cs">
+      <DependentUpon>wer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="wer.aspx.designer.cs">
+      <DependentUpon>wer.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Account\Web.config" />
+    <Content Include="Site.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SSA.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imagestyles\style.css-7-27-2016-3.55" />
+    <Content Include="Site1.Master" />
+    <Content Include="Site2.Master" />
+    <Content Include="packages.config" />
+    <Content Include="Site3.Master" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>52829</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost/SelfServiceAdminstration</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

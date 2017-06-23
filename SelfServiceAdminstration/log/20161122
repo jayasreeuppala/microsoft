@@ -1,0 +1,94 @@
+11/22/2016 11:36:05 AM ==> Loggedin
+11/22/2016 11:37:05 AM ==> Loggedin
+11/22/2016 11:38:23 AM ==> Loggedin
+11/22/2016 11:43:06 AM ==> Loggedin
+11/22/2016 11:46:01 AM ==> Loggedin
+11/22/2016 11:46:41 AM ==> Loggedin
+11/22/2016 11:52:45 AM ==> Loggedin
+11/22/2016 11:52:59 AM ==> locked ?? 2  >> 
+11/22/2016 11:52:59 AM ==> locked ?? 3  >> 
+11/22/2016 11:52:59 AM ==> locked ?? 4  >> 
+11/22/2016 11:52:59 AM ==> locked ?? 5  >> System.DirectoryServices.SearchResult
+11/22/2016 11:52:59 AM ==> locked ?? 6  >> LDAP://CN=Sravan Kumar Sarvadeva Bhatla,OU=Users,OU=UnresolveD,DC=TechMahindra,DC=com
+11/22/2016 11:52:59 AM ==> locked ?? 7  >> Sravan Kumar Sarvadeva Bhatla
+11/22/2016 11:53:24 AM ==> getAccountDetailsuserid 1ss0087061
+11/22/2016 11:53:24 AM ==> IsAuthenticateduserinfoe1
+11/22/2016 11:53:24 AM ==> GetDirectoryObject1   DC=TechMahindra
+11/22/2016 11:53:24 AM ==> GetDirectoryObject2   
+11/22/2016 11:53:24 AM ==> GetDirectoryObject3   2
+11/22/2016 11:53:24 AM ==> IsAuthenticateduserinfoe2 entry System.DirectoryServices.DirectoryEntry
+11/22/2016 11:53:24 AM ==> IsAuthenticateduserinfo
+11/22/2016 11:53:24 AM ==> IsAuthenticateduserinfo2
+11/22/2016 11:53:24 AM ==> IsAuthenticateduserinfo21CN=Sravan Kumar Sarvadeva Bhatla
+11/22/2016 11:53:24 AM ==> IsAuthenticateduserinfo22(objectClass=*)
+11/22/2016 11:53:24 AM ==> IsAuthenticateduserinfoe123  (SAMAccountName=ss0087061)
+11/22/2016 11:53:24 AM ==> IsAuthenticateduserinfoe124  LDAP://techmahindra.com/CN=Sravan Kumar Sarvadeva Bhatla,OU=Users,OU=UnresolveD,DC=TechMahindra,DC=com
+11/22/2016 11:53:24 AM ==> IsAuthenticateduserinfo3
+11/22/2016 11:53:24 AM ==> IsAuthenticateduserinfo4
+11/22/2016 11:53:25 AM ==> get user info 1
+11/22/2016 11:53:25 AM ==> get user info 2Sravan Kumar Sarvadeva Bhatla
+11/22/2016 11:53:25 AM ==> get user info 21
+11/22/2016 11:53:25 AM ==> searching propss...1 
+11/22/2016 11:53:25 AM ==> searching propss...2 
+11/22/2016 11:53:25 AM ==> searching propss...3 mobileno obj System.DirectoryServices.ResultPropertyValueCollection
+11/22/2016 11:53:24 AM ==> IsAuthenticateduserinfo5
+11/22/2016 11:54:07 AM ==> Loggedin
+11/22/2016 11:54:20 AM ==> Loggedin
+11/22/2016 11:55:07 AM ==> Loggedin
+11/22/2016 11:56:59 AM ==> Loggedin
+11/22/2016 11:57:01 AM ==> locked ?? 2  >> 
+11/22/2016 11:57:01 AM ==> locked ?? 3  >> 
+11/22/2016 11:57:01 AM ==> locked ?? 4  >> 
+11/22/2016 11:57:01 AM ==> locked ?? 5  >> System.DirectoryServices.SearchResult
+11/22/2016 11:57:01 AM ==> locked ?? 6  >> LDAP://CN=Sravan Kumar Sarvadeva Bhatla,OU=Users,OU=UnresolveD,DC=TechMahindra,DC=com
+11/22/2016 11:57:01 AM ==> locked ?? 7  >> Sravan Kumar Sarvadeva Bhatla
+11/22/2016 11:56:59 AM ==> displayVal  Sravan Kumar Sarvadeva Bhatla
+11/22/2016 11:57:02 AM ==> getAccountDetailsuserid 1ss0087061
+11/22/2016 11:57:02 AM ==> IsAuthenticateduserinfoe1
+11/22/2016 11:57:02 AM ==> GetDirectoryObject1   DC=TechMahindra
+11/22/2016 11:57:02 AM ==> GetDirectoryObject2   
+11/22/2016 11:57:02 AM ==> GetDirectoryObject3   2
+11/22/2016 11:57:02 AM ==> IsAuthenticateduserinfoe2 entry System.DirectoryServices.DirectoryEntry
+11/22/2016 11:57:02 AM ==> IsAuthenticateduserinfo
+11/22/2016 11:57:02 AM ==> IsAuthenticateduserinfo2
+11/22/2016 11:57:02 AM ==> IsAuthenticateduserinfo21CN=Sravan Kumar Sarvadeva Bhatla
+11/22/2016 11:57:02 AM ==> IsAuthenticateduserinfo22(objectClass=*)
+11/22/2016 11:57:02 AM ==> IsAuthenticateduserinfoe123  (SAMAccountName=ss0087061)
+11/22/2016 11:57:02 AM ==> IsAuthenticateduserinfoe124  LDAP://techmahindra.com/CN=Sravan Kumar Sarvadeva Bhatla,OU=Users,OU=UnresolveD,DC=TechMahindra,DC=com
+11/22/2016 11:57:02 AM ==> IsAuthenticateduserinfo3
+11/22/2016 11:57:02 AM ==> IsAuthenticateduserinfo4
+11/22/2016 11:57:02 AM ==> get user info 1
+11/22/2016 11:57:02 AM ==> get user info 2Sravan Kumar Sarvadeva Bhatla
+11/22/2016 11:57:02 AM ==> get user info 21
+11/22/2016 11:57:02 AM ==> searching propss...1 
+11/22/2016 11:57:02 AM ==> searching propss...2 
+11/22/2016 11:57:02 AM ==> searching propss...3 mobileno obj System.DirectoryServices.ResultPropertyValueCollection
+11/22/2016 11:57:02 AM ==> IsAuthenticateduserinfo5
+11/22/2016 11:58:03 AM ==> Loggedin
+11/22/2016 11:58:03 AM ==> locked ?? 2  >> 
+11/22/2016 11:58:03 AM ==> locked ?? 3  >> 
+11/22/2016 11:58:03 AM ==> locked ?? 4  >> 
+11/22/2016 11:58:03 AM ==> locked ?? 5  >> System.DirectoryServices.SearchResult
+11/22/2016 11:58:03 AM ==> locked ?? 6  >> LDAP://CN=Sravan Kumar Sarvadeva Bhatla,OU=Users,OU=UnresolveD,DC=TechMahindra,DC=com
+11/22/2016 11:58:03 AM ==> locked ?? 7  >> Sravan Kumar Sarvadeva Bhatla
+11/22/2016 11:58:03 AM ==> getAccountDetailsuserid 1ss0087061
+11/22/2016 11:58:03 AM ==> IsAuthenticateduserinfoe1
+11/22/2016 11:58:03 AM ==> GetDirectoryObject1   DC=TechMahindra
+11/22/2016 11:58:03 AM ==> GetDirectoryObject2   
+11/22/2016 11:58:03 AM ==> GetDirectoryObject3   2
+11/22/2016 11:58:03 AM ==> IsAuthenticateduserinfoe2 entry System.DirectoryServices.DirectoryEntry
+11/22/2016 11:58:03 AM ==> IsAuthenticateduserinfo
+11/22/2016 11:58:03 AM ==> IsAuthenticateduserinfo2
+11/22/2016 11:58:03 AM ==> IsAuthenticateduserinfo21CN=Sravan Kumar Sarvadeva Bhatla
+11/22/2016 11:58:03 AM ==> IsAuthenticateduserinfo22(objectClass=*)
+11/22/2016 11:58:03 AM ==> IsAuthenticateduserinfoe123  (SAMAccountName=ss0087061)
+11/22/2016 11:58:03 AM ==> IsAuthenticateduserinfoe124  LDAP://techmahindra.com/CN=Sravan Kumar Sarvadeva Bhatla,OU=Users,OU=UnresolveD,DC=TechMahindra,DC=com
+11/22/2016 11:58:03 AM ==> IsAuthenticateduserinfo3
+11/22/2016 11:58:03 AM ==> IsAuthenticateduserinfo4
+11/22/2016 11:58:04 AM ==> get user info 1
+11/22/2016 11:58:04 AM ==> get user info 2Sravan Kumar Sarvadeva Bhatla
+11/22/2016 11:58:04 AM ==> get user info 21
+11/22/2016 11:58:04 AM ==> searching propss...1 
+11/22/2016 11:58:04 AM ==> searching propss...2 
+11/22/2016 11:58:04 AM ==> searching propss...3 mobileno obj System.DirectoryServices.ResultPropertyValueCollection
+11/22/2016 11:58:03 AM ==> IsAuthenticateduserinfo5

@@ -1,0 +1,312 @@
+10/27/2016 11:02:58 AM ==> Loggedin
+10/27/2016 11:03:32 AM ==> Loggedin
+10/27/2016 11:52:55 AM ==> Loggedin
+10/27/2016 11:52:58 AM ==> locked ?? 2  >> 
+10/27/2016 11:52:58 AM ==> locked ?? 3  >> 
+10/27/2016 11:52:58 AM ==> locked ?? 4  >> 
+10/27/2016 11:52:58 AM ==> locked ?? 5  >> System.DirectoryServices.SearchResult
+10/27/2016 11:52:58 AM ==> locked ?? 6  >> LDAP://CN=Sravan Kumar Sarvadeva Bhatla,OU=Users,OU=UnresolveD,DC=TechMahindra,DC=com
+10/27/2016 11:52:58 AM ==> locked ?? 7  >> Sravan Kumar Sarvadeva Bhatla
+10/27/2016 11:52:57 AM ==> displayVal  Sravan Kumar Sarvadeva Bhatla
+10/27/2016 11:53:01 AM ==> getAccountDetailsuserid 1ss0087061
+10/27/2016 11:53:01 AM ==> IsAuthenticateduserinfoe1
+10/27/2016 11:53:01 AM ==> GetDirectoryObject1   DC=TechMahindra
+10/27/2016 11:53:01 AM ==> GetDirectoryObject2   
+10/27/2016 11:53:01 AM ==> GetDirectoryObject3   2
+10/27/2016 11:53:01 AM ==> IsAuthenticateduserinfoe2 entry System.DirectoryServices.DirectoryEntry
+10/27/2016 11:53:01 AM ==> IsAuthenticateduserinfo
+10/27/2016 11:53:01 AM ==> IsAuthenticateduserinfo2
+10/27/2016 11:53:01 AM ==> IsAuthenticateduserinfo21CN=Sravan Kumar Sarvadeva Bhatla
+10/27/2016 11:53:01 AM ==> IsAuthenticateduserinfo22(objectClass=*)
+10/27/2016 11:53:01 AM ==> IsAuthenticateduserinfoe123  (SAMAccountName=ss0087061)
+10/27/2016 11:53:01 AM ==> IsAuthenticateduserinfoe124  LDAP://techmahindra.com/CN=Sravan Kumar Sarvadeva Bhatla,OU=Users,OU=UnresolveD,DC=TechMahindra,DC=com
+10/27/2016 11:53:01 AM ==> IsAuthenticateduserinfo3
+10/27/2016 11:53:01 AM ==> IsAuthenticateduserinfo4
+10/27/2016 11:53:01 AM ==> get user info 1
+10/27/2016 11:53:01 AM ==> get user info 2Sravan Kumar Sarvadeva Bhatla
+10/27/2016 11:53:01 AM ==> get user info 21
+10/27/2016 11:53:01 AM ==> searching propss...1 
+10/27/2016 11:53:01 AM ==> searching propss...2 
+10/27/2016 11:53:01 AM ==> searching propss...3 mobileno obj System.DirectoryServices.ResultPropertyValueCollection
+10/27/2016 11:53:01 AM ==> IsAuthenticateduserinfo5
+10/27/2016 12:07:52 PM ==> Loggedin
+10/27/2016 12:13:34 PM ==> Loggedin
+10/27/2016 12:13:34 PM ==> locked ?? 2  >> 
+10/27/2016 12:13:34 PM ==> locked ?? 3  >> 
+10/27/2016 12:13:34 PM ==> locked ?? 4  >> 
+10/27/2016 12:13:34 PM ==> locked ?? 5  >> System.DirectoryServices.SearchResult
+10/27/2016 12:13:34 PM ==> locked ?? 6  >> LDAP://CN=Sravan Kumar Sarvadeva Bhatla,OU=Users,OU=UnresolveD,DC=TechMahindra,DC=com
+10/27/2016 12:13:34 PM ==> locked ?? 7  >> Sravan Kumar Sarvadeva Bhatla
+10/27/2016 12:13:34 PM ==> displayVal  Sravan Kumar Sarvadeva Bhatla
+10/27/2016 12:13:35 PM ==> getAccountDetailsuserid 1ss0087061
+10/27/2016 12:13:35 PM ==> IsAuthenticateduserinfoe1
+10/27/2016 12:13:35 PM ==> GetDirectoryObject1   DC=TechMahindra
+10/27/2016 12:13:35 PM ==> GetDirectoryObject2   
+10/27/2016 12:13:35 PM ==> GetDirectoryObject3   2
+10/27/2016 12:13:35 PM ==> IsAuthenticateduserinfoe2 entry System.DirectoryServices.DirectoryEntry
+10/27/2016 12:13:35 PM ==> IsAuthenticateduserinfo
+10/27/2016 12:13:35 PM ==> IsAuthenticateduserinfo2
+10/27/2016 12:13:35 PM ==> IsAuthenticateduserinfo21CN=Sravan Kumar Sarvadeva Bhatla
+10/27/2016 12:13:35 PM ==> IsAuthenticateduserinfo22(objectClass=*)
+10/27/2016 12:13:35 PM ==> IsAuthenticateduserinfoe123  (SAMAccountName=ss0087061)
+10/27/2016 12:13:35 PM ==> IsAuthenticateduserinfoe124  LDAP://techmahindra.com/CN=Sravan Kumar Sarvadeva Bhatla,OU=Users,OU=UnresolveD,DC=TechMahindra,DC=com
+10/27/2016 12:13:35 PM ==> IsAuthenticateduserinfo3
+10/27/2016 12:13:35 PM ==> IsAuthenticateduserinfo4
+10/27/2016 12:13:35 PM ==> get user info 1
+10/27/2016 12:13:35 PM ==> get user info 2Sravan Kumar Sarvadeva Bhatla
+10/27/2016 12:13:35 PM ==> get user info 21
+10/27/2016 12:13:35 PM ==> searching propss...1 
+10/27/2016 12:13:35 PM ==> searching propss...2 
+10/27/2016 12:13:35 PM ==> searching propss...3 mobileno obj System.DirectoryServices.ResultPropertyValueCollection
+10/27/2016 12:13:35 PM ==> IsAuthenticateduserinfo5
+10/27/2016 12:14:11 PM ==>  are we hereee???...  
+10/27/2016 12:14:11 PM ==>  oneee loginid???...  ss0087061
+10/27/2016 12:14:20 PM ==>  oneee loginid.session..  ss0087061
+10/27/2016 12:22:55 PM ==>  Now rows.. insert ...  
+10/27/2016 12:23:09 PM ==> getAccountDetailsuserid 1ss0087061
+10/27/2016 12:23:10 PM ==> IsAuthenticateduserinfoe1
+10/27/2016 12:23:10 PM ==> GetDirectoryObject1   DC=TechMahindra
+10/27/2016 12:23:10 PM ==> GetDirectoryObject2   
+10/27/2016 12:23:10 PM ==> GetDirectoryObject3   2
+10/27/2016 12:23:10 PM ==> IsAuthenticateduserinfoe2 entry System.DirectoryServices.DirectoryEntry
+10/27/2016 12:23:10 PM ==> IsAuthenticateduserinfo
+10/27/2016 12:23:10 PM ==> IsAuthenticateduserinfo2
+10/27/2016 12:23:10 PM ==> IsAuthenticateduserinfo21CN=Sravan Kumar Sarvadeva Bhatla
+10/27/2016 12:23:10 PM ==> IsAuthenticateduserinfo22(objectClass=*)
+10/27/2016 12:23:10 PM ==> IsAuthenticateduserinfoe123  (SAMAccountName=ss0087061)
+10/27/2016 12:23:10 PM ==> IsAuthenticateduserinfoe124  LDAP://techmahindra.com/CN=Sravan Kumar Sarvadeva Bhatla,OU=Users,OU=UnresolveD,DC=TechMahindra,DC=com
+10/27/2016 12:23:10 PM ==> IsAuthenticateduserinfo3
+10/27/2016 12:23:10 PM ==> IsAuthenticateduserinfo4
+10/27/2016 12:23:12 PM ==> get user info 1
+10/27/2016 12:23:12 PM ==> get user info 2Sravan Kumar Sarvadeva Bhatla
+10/27/2016 12:23:12 PM ==> get user info 21
+10/27/2016 12:23:12 PM ==> searching propss...1 
+10/27/2016 12:23:12 PM ==> searching propss...2 
+10/27/2016 12:23:12 PM ==> searching propss...3 mobileno obj System.DirectoryServices.ResultPropertyValueCollection
+10/27/2016 12:23:10 PM ==> IsAuthenticateduserinfo5
+10/27/2016 12:23:12 PM ==> query delete delete from userotp where username='c3MwMDg3MDYx'
+10/27/2016 12:23:13 PM ==> webtarget url  http://172.32.0.175:8080/mConnector/dispatchapi?cname=tqbook&tname=tqbook&login=tqbook&to=+919845279033&text=Your OTP to reset password is  361937
+10/27/2016 12:23:13 PM ==> proxy is there  ...  http://172.32.0.175:8080/mConnector/dispatchapi?cname=tqbook&tname=tqbook&login=tqbook&to=+919845279033&text=Your OTP to reset password is  361937
+10/27/2016 12:23:13 PM ==> Connected to sms server 
+10/27/2016 12:23:13 PM ==> Connected to sms server 2
+10/27/2016 12:23:13 PM ==> Connected to sms server 3
+10/27/2016 12:23:13 PM ==> Unable to connect to the remote server
+10/27/2016 12:23:55 PM ==> getAccountDetailsuserid 1ss0087061
+10/27/2016 12:23:55 PM ==> IsAuthenticateduserinfoe1
+10/27/2016 12:23:55 PM ==> GetDirectoryObject1   DC=TechMahindra
+10/27/2016 12:23:55 PM ==> GetDirectoryObject2   
+10/27/2016 12:23:55 PM ==> GetDirectoryObject3   2
+10/27/2016 12:23:55 PM ==> IsAuthenticateduserinfoe2 entry System.DirectoryServices.DirectoryEntry
+10/27/2016 12:23:55 PM ==> IsAuthenticateduserinfo
+10/27/2016 12:23:55 PM ==> IsAuthenticateduserinfo2
+10/27/2016 12:23:55 PM ==> IsAuthenticateduserinfo21CN=Sravan Kumar Sarvadeva Bhatla
+10/27/2016 12:23:55 PM ==> IsAuthenticateduserinfo22(objectClass=*)
+10/27/2016 12:23:55 PM ==> IsAuthenticateduserinfoe123  (SAMAccountName=ss0087061)
+10/27/2016 12:23:55 PM ==> IsAuthenticateduserinfoe124  LDAP://techmahindra.com/CN=Sravan Kumar Sarvadeva Bhatla,OU=Users,OU=UnresolveD,DC=TechMahindra,DC=com
+10/27/2016 12:23:55 PM ==> IsAuthenticateduserinfo3
+10/27/2016 12:23:55 PM ==> IsAuthenticateduserinfo4
+10/27/2016 12:23:56 PM ==> get user info 1
+10/27/2016 12:23:56 PM ==> get user info 2Sravan Kumar Sarvadeva Bhatla
+10/27/2016 12:23:56 PM ==> get user info 21
+10/27/2016 12:23:56 PM ==> searching propss...1 
+10/27/2016 12:23:56 PM ==> searching propss...2 
+10/27/2016 12:23:56 PM ==> searching propss...3 mobileno obj System.DirectoryServices.ResultPropertyValueCollection
+10/27/2016 12:23:55 PM ==> IsAuthenticateduserinfo5
+10/27/2016 12:30:52 PM ==>  oneee loginid.session..  
+10/27/2016 12:31:29 PM ==>  are we hereee???...  
+10/27/2016 12:31:29 PM ==>  oneee loginid???...  ss0087061
+10/27/2016 12:31:32 PM ==>  oneee loginid.session..  ss0087061
+10/27/2016 12:34:34 PM ==>  are we hereee???...  
+10/27/2016 12:34:34 PM ==>  oneee loginid???...  ss0087061
+10/27/2016 12:36:30 PM ==>  Now rows.. insert ...  
+10/27/2016 12:37:34 PM ==>  are we hereee???...  
+10/27/2016 12:37:34 PM ==>  oneee loginid???...  ss0087061
+10/27/2016 12:42:27 PM ==>  Now rows.. insert ...  
+10/27/2016 12:43:15 PM ==> Loggedin
+10/27/2016 12:46:21 PM ==>  oneee loginid.session..  
+10/27/2016 12:47:04 PM ==>  oneee loginid.session..  
+10/27/2016 12:47:27 PM ==>  oneee loginid.session..  
+10/27/2016 12:49:36 PM ==>  are we hereee???...  
+10/27/2016 12:49:36 PM ==>  oneee loginid???...  ss0087061
+10/27/2016 12:49:51 PM ==>  oneee loginid.session..  ss0087061
+10/27/2016 12:55:03 PM ==>  are we hereee???...  
+10/27/2016 12:55:03 PM ==>  oneee loginid???...  ss0087061
+10/27/2016 12:55:07 PM ==>  oneee loginid.session..  ss0087061
+10/27/2016 12:55:38 PM ==>  are we hereee???...  
+10/27/2016 12:55:38 PM ==>  oneee loginid???...  ss0087061
+10/27/2016 12:55:40 PM ==>  oneee loginid.session..  ss0087061
+10/27/2016 12:56:11 PM ==>  are we hereee???...  
+10/27/2016 12:56:11 PM ==>  oneee loginid???...  ss0087061
+10/27/2016 12:56:14 PM ==>  oneee loginid.session..  ss0087061
+10/27/2016 12:56:37 PM ==>  are we hereee???...  
+10/27/2016 12:56:37 PM ==>  oneee loginid???...  ss0087061
+10/27/2016 12:57:16 PM ==>  Now rows.. insert ...  
+10/27/2016 1:13:34 PM ==>  are we hereee???...  
+10/27/2016 1:13:34 PM ==>  oneee loginid???...  ss0087061
+10/27/2016 1:14:52 PM ==>  are we hereee???...  
+10/27/2016 1:14:52 PM ==>  oneee loginid???...  ss0087061
+10/27/2016 4:32:50 PM ==>  are we hereee???...  
+10/27/2016 4:32:50 PM ==>  oneee loginid???...  ss0087061
+10/27/2016 4:32:54 PM ==>  oneee loginid.session..  ss0087061
+10/27/2016 4:43:46 PM ==>  are we hereee???...  
+10/27/2016 4:43:46 PM ==>  oneee loginid???...  ss0087061
+10/27/2016 4:43:49 PM ==>  oneee loginid.session..  ss0087061
+10/27/2016 4:48:00 PM ==>  are we hereee???...  
+10/27/2016 4:48:00 PM ==>  oneee loginid???...  ss0087061
+10/27/2016 4:48:03 PM ==>  oneee loginid.session..  ss0087061
+10/27/2016 4:49:50 PM ==>  are we hereee???...  
+10/27/2016 4:49:50 PM ==>  oneee loginid???...  ss0087061
+10/27/2016 4:49:53 PM ==>  oneee loginid.session..  ss0087061
+10/27/2016 4:52:25 PM ==>  are we hereee???...  
+10/27/2016 4:52:25 PM ==>  oneee loginid???...  ss0087061
+10/27/2016 4:52:28 PM ==>  oneee loginid.session..  ss0087061
+10/27/2016 4:56:39 PM ==>  are we hereee???...  
+10/27/2016 4:56:39 PM ==>  oneee loginid???...  ss0087061
+10/27/2016 4:56:41 PM ==>  oneee loginid.session..  ss0087061
+10/27/2016 5:00:31 PM ==>  are we hereee???...  
+10/27/2016 5:00:31 PM ==>  oneee loginid???...  ss0087061
+10/27/2016 5:00:32 PM ==>  oneee loginid.session..  ss0087061
+10/27/2016 5:04:00 PM ==>  are we hereee???...  
+10/27/2016 5:04:00 PM ==>  oneee loginid???...  ss0087061
+10/27/2016 5:04:02 PM ==>  oneee loginid.session..  ss0087061
+10/27/2016 5:07:06 PM ==> Loggedin
+10/27/2016 5:07:10 PM ==> locked ?? 2  >> 
+10/27/2016 5:07:10 PM ==> locked ?? 3  >> 
+10/27/2016 5:07:10 PM ==> locked ?? 4  >> 
+10/27/2016 5:07:10 PM ==> locked ?? 5  >> System.DirectoryServices.SearchResult
+10/27/2016 5:07:10 PM ==> locked ?? 6  >> LDAP://CN=Sravan Kumar Sarvadeva Bhatla,OU=Users,OU=UnresolveD,DC=TechMahindra,DC=com
+10/27/2016 5:07:10 PM ==> locked ?? 7  >> Sravan Kumar Sarvadeva Bhatla
+10/27/2016 5:07:09 PM ==> displayVal  Sravan Kumar Sarvadeva Bhatla
+10/27/2016 5:07:11 PM ==> getAccountDetailsuserid 1ss0087061
+10/27/2016 5:07:11 PM ==> IsAuthenticateduserinfoe1
+10/27/2016 5:07:11 PM ==> GetDirectoryObject1   DC=TechMahindra
+10/27/2016 5:07:11 PM ==> GetDirectoryObject2   
+10/27/2016 5:07:11 PM ==> GetDirectoryObject3   2
+10/27/2016 5:07:11 PM ==> IsAuthenticateduserinfoe2 entry System.DirectoryServices.DirectoryEntry
+10/27/2016 5:07:11 PM ==> IsAuthenticateduserinfo
+10/27/2016 5:07:11 PM ==> IsAuthenticateduserinfo2
+10/27/2016 5:07:11 PM ==> IsAuthenticateduserinfo21CN=Sravan Kumar Sarvadeva Bhatla
+10/27/2016 5:07:11 PM ==> IsAuthenticateduserinfo22(objectClass=*)
+10/27/2016 5:07:11 PM ==> IsAuthenticateduserinfoe123  (SAMAccountName=ss0087061)
+10/27/2016 5:07:11 PM ==> IsAuthenticateduserinfoe124  LDAP://techmahindra.com/CN=Sravan Kumar Sarvadeva Bhatla,OU=Users,OU=UnresolveD,DC=TechMahindra,DC=com
+10/27/2016 5:07:11 PM ==> IsAuthenticateduserinfo3
+10/27/2016 5:07:11 PM ==> IsAuthenticateduserinfo4
+10/27/2016 5:07:11 PM ==> get user info 1
+10/27/2016 5:07:11 PM ==> get user info 2Sravan Kumar Sarvadeva Bhatla
+10/27/2016 5:07:11 PM ==> get user info 21
+10/27/2016 5:07:11 PM ==> searching propss...1 
+10/27/2016 5:07:11 PM ==> searching propss...2 
+10/27/2016 5:07:11 PM ==> searching propss...3 mobileno obj System.DirectoryServices.ResultPropertyValueCollection
+10/27/2016 5:07:11 PM ==> IsAuthenticateduserinfo5
+10/27/2016 5:08:21 PM ==> Loggedin
+10/27/2016 5:10:52 PM ==> Loggedin
+10/27/2016 5:12:25 PM ==> Loggedin
+10/27/2016 5:15:17 PM ==> Loggedin
+10/27/2016 5:15:49 PM ==> Loggedin
+10/27/2016 5:18:42 PM ==> Loggedin
+10/27/2016 5:19:29 PM ==> Loggedin
+10/27/2016 5:22:33 PM ==> Loggedin
+10/27/2016 6:23:57 PM ==> Loggedin
+10/27/2016 6:29:24 PM ==> Loggedin
+10/27/2016 6:31:34 PM ==> Loggedin
+10/27/2016 6:31:53 PM ==> locked ?? 2  >> 
+10/27/2016 6:31:53 PM ==> locked ?? 3  >> 
+10/27/2016 6:31:53 PM ==> locked ?? 4  >> 
+10/27/2016 6:31:53 PM ==> locked ?? 5  >> System.DirectoryServices.SearchResult
+10/27/2016 6:31:53 PM ==> locked ?? 6  >> LDAP://CN=Sravan Kumar Sarvadeva Bhatla,OU=Users,OU=UnresolveD,DC=TechMahindra,DC=com
+10/27/2016 6:31:53 PM ==> locked ?? 7  >> Sravan Kumar Sarvadeva Bhatla
+10/27/2016 6:31:53 PM ==> displayVal  Sravan Kumar Sarvadeva Bhatla
+10/27/2016 6:31:56 PM ==> getAccountDetailsuserid 1ss0087061
+10/27/2016 6:31:56 PM ==> IsAuthenticateduserinfoe1
+10/27/2016 6:31:56 PM ==> GetDirectoryObject1   DC=TechMahindra
+10/27/2016 6:31:56 PM ==> GetDirectoryObject2   
+10/27/2016 6:31:56 PM ==> GetDirectoryObject3   2
+10/27/2016 6:31:56 PM ==> IsAuthenticateduserinfoe2 entry System.DirectoryServices.DirectoryEntry
+10/27/2016 6:31:56 PM ==> IsAuthenticateduserinfo
+10/27/2016 6:31:56 PM ==> IsAuthenticateduserinfo2
+10/27/2016 6:31:56 PM ==> IsAuthenticateduserinfo21CN=Sravan Kumar Sarvadeva Bhatla
+10/27/2016 6:31:56 PM ==> IsAuthenticateduserinfo22(objectClass=*)
+10/27/2016 6:31:56 PM ==> IsAuthenticateduserinfoe123  (SAMAccountName=ss0087061)
+10/27/2016 6:31:56 PM ==> IsAuthenticateduserinfoe124  LDAP://techmahindra.com/CN=Sravan Kumar Sarvadeva Bhatla,OU=Users,OU=UnresolveD,DC=TechMahindra,DC=com
+10/27/2016 6:31:56 PM ==> IsAuthenticateduserinfo3
+10/27/2016 6:31:56 PM ==> IsAuthenticateduserinfo4
+10/27/2016 6:31:57 PM ==> get user info 1
+10/27/2016 6:31:57 PM ==> get user info 2Sravan Kumar Sarvadeva Bhatla
+10/27/2016 6:31:57 PM ==> get user info 21
+10/27/2016 6:31:57 PM ==> searching propss...1 
+10/27/2016 6:31:57 PM ==> searching propss...2 
+10/27/2016 6:31:57 PM ==> searching propss...3 mobileno obj System.DirectoryServices.ResultPropertyValueCollection
+10/27/2016 6:31:56 PM ==> IsAuthenticateduserinfo5
+10/27/2016 6:32:18 PM ==>  are we hereee???...  
+10/27/2016 6:32:18 PM ==>  oneee loginid???...  ss0087061
+10/27/2016 6:32:20 PM ==>  oneee loginid.session..  ss0087061
+10/27/2016 6:32:38 PM ==> getAccountDetailsuserid 1ss0087061
+10/27/2016 6:32:38 PM ==> IsAuthenticateduserinfoe1
+10/27/2016 6:32:38 PM ==> GetDirectoryObject1   DC=TechMahindra
+10/27/2016 6:32:38 PM ==> GetDirectoryObject2   
+10/27/2016 6:32:38 PM ==> GetDirectoryObject3   2
+10/27/2016 6:32:38 PM ==> IsAuthenticateduserinfoe2 entry System.DirectoryServices.DirectoryEntry
+10/27/2016 6:32:38 PM ==> IsAuthenticateduserinfo
+10/27/2016 6:32:38 PM ==> IsAuthenticateduserinfo2
+10/27/2016 6:32:38 PM ==> IsAuthenticateduserinfo21CN=Sravan Kumar Sarvadeva Bhatla
+10/27/2016 6:32:38 PM ==> IsAuthenticateduserinfo22(objectClass=*)
+10/27/2016 6:32:38 PM ==> IsAuthenticateduserinfoe123  (SAMAccountName=ss0087061)
+10/27/2016 6:32:38 PM ==> IsAuthenticateduserinfoe124  LDAP://techmahindra.com/CN=Sravan Kumar Sarvadeva Bhatla,OU=Users,OU=UnresolveD,DC=TechMahindra,DC=com
+10/27/2016 6:32:38 PM ==> IsAuthenticateduserinfo3
+10/27/2016 6:32:38 PM ==> IsAuthenticateduserinfo4
+10/27/2016 6:32:39 PM ==> get user info 1
+10/27/2016 6:32:39 PM ==> get user info 2Sravan Kumar Sarvadeva Bhatla
+10/27/2016 6:32:39 PM ==> get user info 21
+10/27/2016 6:32:39 PM ==> searching propss...1 
+10/27/2016 6:32:39 PM ==> searching propss...2 
+10/27/2016 6:32:39 PM ==> searching propss...3 mobileno obj System.DirectoryServices.ResultPropertyValueCollection
+10/27/2016 6:32:38 PM ==> IsAuthenticateduserinfo5
+10/27/2016 6:34:26 PM ==> Loggedin
+10/27/2016 6:36:03 PM ==> Loggedin
+10/27/2016 6:46:42 PM ==> Loggedin
+10/27/2016 6:47:25 PM ==> locked ?? 2  >> 
+10/27/2016 6:47:25 PM ==> locked ?? 3  >> 
+10/27/2016 6:47:25 PM ==> locked ?? 4  >> 
+10/27/2016 6:47:25 PM ==> locked ?? 5  >> System.DirectoryServices.SearchResult
+10/27/2016 6:47:25 PM ==> locked ?? 6  >> LDAP://CN=Sravan Kumar Sarvadeva Bhatla,OU=Users,OU=UnresolveD,DC=TechMahindra,DC=com
+10/27/2016 6:47:25 PM ==> locked ?? 7  >> Sravan Kumar Sarvadeva Bhatla
+10/27/2016 6:47:25 PM ==> displayVal  Sravan Kumar Sarvadeva Bhatla
+10/27/2016 6:47:26 PM ==> getAccountDetailsuserid 1ss0087061
+10/27/2016 6:47:26 PM ==> IsAuthenticateduserinfoe1
+10/27/2016 6:47:26 PM ==> GetDirectoryObject1   DC=TechMahindra
+10/27/2016 6:47:26 PM ==> GetDirectoryObject2   
+10/27/2016 6:47:26 PM ==> GetDirectoryObject3   2
+10/27/2016 6:47:26 PM ==> IsAuthenticateduserinfoe2 entry System.DirectoryServices.DirectoryEntry
+10/27/2016 6:47:26 PM ==> IsAuthenticateduserinfo
+10/27/2016 6:47:26 PM ==> IsAuthenticateduserinfo2
+10/27/2016 6:47:26 PM ==> IsAuthenticateduserinfo21CN=Sravan Kumar Sarvadeva Bhatla
+10/27/2016 6:47:26 PM ==> IsAuthenticateduserinfo22(objectClass=*)
+10/27/2016 6:47:26 PM ==> IsAuthenticateduserinfoe123  (SAMAccountName=ss0087061)
+10/27/2016 6:47:26 PM ==> IsAuthenticateduserinfoe124  LDAP://techmahindra.com/CN=Sravan Kumar Sarvadeva Bhatla,OU=Users,OU=UnresolveD,DC=TechMahindra,DC=com
+10/27/2016 6:47:26 PM ==> IsAuthenticateduserinfo3
+10/27/2016 6:47:26 PM ==> IsAuthenticateduserinfo4
+10/27/2016 6:47:26 PM ==> get user info 1
+10/27/2016 6:47:26 PM ==> get user info 2Sravan Kumar Sarvadeva Bhatla
+10/27/2016 6:47:26 PM ==> get user info 21
+10/27/2016 6:47:26 PM ==> searching propss...1 
+10/27/2016 6:47:26 PM ==> searching propss...2 
+10/27/2016 6:47:26 PM ==> searching propss...3 mobileno obj System.DirectoryServices.ResultPropertyValueCollection
+10/27/2016 6:47:26 PM ==> IsAuthenticateduserinfo5
+10/27/2016 6:47:33 PM ==>  are we hereee???...  
+10/27/2016 6:47:33 PM ==>  oneee loginid???...  ss0087061
+10/27/2016 6:47:35 PM ==>  oneee loginid.session..  ss0087061
+10/27/2016 6:51:15 PM ==>  are we hereee???...  
+10/27/2016 6:51:15 PM ==>  oneee loginid???...  ss0087061
+10/27/2016 6:51:18 PM ==>  oneee loginid.session..  ss0087061
+10/27/2016 6:52:10 PM ==> Loggedin
+10/27/2016 6:53:53 PM ==> Loggedin
+10/27/2016 6:54:04 PM ==> Loggedin
+10/27/2016 6:54:21 PM ==> Loggedin
+10/27/2016 6:54:32 PM ==> Loggedin
+10/27/2016 7:01:58 PM ==>  are we hereee???...  
+10/27/2016 7:01:58 PM ==>  oneee loginid???...  ss0087061
+10/27/2016 7:02:44 PM ==>  are we hereee???...  
+10/27/2016 7:02:44 PM ==>  oneee loginid???...  ss0087061
+10/27/2016 7:02:49 PM ==>  are we hereee???...  
+10/27/2016 7:02:49 PM ==>  oneee loginid???...  ss0087061
+10/27/2016 7:02:52 PM ==>  oneee loginid.session..  ss0087061

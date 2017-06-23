@@ -1,0 +1,27 @@
+body {
+	margin: 10px;
+	margin-right: 0px;
+	background-color: #FFFFFF;
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:small;
+}
+
+ .TopRightFixed 
+ {
+   top: 0px;
+   right: 0px;	
+   position:fixed;
+ } 
+
+ .Progress
+ {
+   background-color:#CF4342;
+   color:White;
+   width:105px;
+ }
+ 
+.Progress img {
+   vertical-align:middle;
+   margin:2px;
+ }

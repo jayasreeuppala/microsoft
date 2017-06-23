@@ -1,0 +1,72 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site2.master.cs" Inherits="SelfServiceAdminstration.Site2" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<style type="text/css">
+        .style3
+        {
+            color: #B3322D;
+            border-left-color: #A0A0A0;
+            border-right-color: #C0C0C0;
+            border-top-color: #A0A0A0;
+            border-bottom-color: #C0C0C0;
+        }
+        .style4
+        {
+        }
+        .menudef {
+            position: relative;
+            left : 0px;
+            padding: 1px;
+            border-width: 0px;
+            cursor: hand;
+        }
+        .menuOver {
+            position: relative;
+            left: -1px;
+            padding: 1px;
+            border: 1px #00f7ff solid;
+            cursor: hand;
+        }
+    </style>
+<head id="Head1" runat="server">
+    <title>Self Service Adminstration Login</title>
+</head>
+
+<body>
+
+<script src="/imagestyles/WebResource.axd" type="text/javascript"></script>
+
+
+<script src="/imagestyles/WebResource(1).axd" type="text/javascript"></script>
+
+<link href="/imagestyles/style.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="/imagestyles/glowtabs.css">
+<link rel="stylesheet" type="text/css" href="/imagestyles/slidingdoors.css">
+<link rel="stylesheet" type="text/css" href="/imagestyles/bluetabs.css">
+        <script type="text/javascript" src="/imagestyles/dropdowntabs.js">
+
+
+</script>
+
+
+<link rel="stylesheet" type="text/css" href="/imagestyles/ddcolortabs.css">
+
+
+<link rel="stylesheet" type="text/css" href="/imagestyles/halfmoontabs.css">
+<style type="text/css">
+    .style1
+    {
+        width: 380px;
+    }
+</style>
+    <form id="form1" runat="server" autocomplete="off" >
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
